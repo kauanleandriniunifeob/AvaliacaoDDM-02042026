@@ -51,5 +51,3 @@ class LoginViewModel {
     return null;
   }
 }
-
-
